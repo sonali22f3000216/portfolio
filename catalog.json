@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "email": "22f3000216@ds.study.iitm.ac.in",
+    "version": "a63a6f86"
+  },
+  "products": [
+    { "id": 1, "name": "Laptop Pro", "category": "electronics", "price": 1200.50, "stock": 10, "rating": 4.5 },
+    { "id": 2, "name": "Smartphone X", "category": "electronics", "price": 800.00, "stock": 15, "rating": 4.3 },
+    { "id": 3, "name": "Headphones", "category": "electronics", "price": 150.00, "stock": 30, "rating": 4.2 },
+    { "id": 4, "name": "Gaming Mouse", "category": "electronics", "price": 75.00, "stock": 25, "rating": 4.1 },
+
+    { "id": 5, "name": "T-Shirt", "category": "clothing", "price": 25.99, "stock": 200, "rating": 4.0 },
+    { "id": 6, "name": "Jeans", "category": "clothing", "price": 60.00, "stock": 100, "rating": 4.2 },
+
+    { "id": 7, "name": "Running Shoes", "category": "footwear", "price": 90.00, "stock": 50, "rating": 4.4 },
+    { "id": 8, "name": "Sandals", "category": "footwear", "price": 40.00, "stock": 60, "rating": 4.1 },
+
+    { "id": 9, "name": "Coffee Maker", "category": "home", "price": 110.00, "stock": 20, "rating": 4.3 },
+    { "id": 10, "name": "Blender", "category": "home", "price": 70.00, "stock": 35, "rating": 4.0 },
+
+    { "id": 11, "name": "Desk Chair", "category": "furniture", "price": 150.00, "stock": 12, "rating": 4.2 },
+    { "id": 12, "name": "Bookshelf", "category": "furniture", "price": 200.00, "stock": 8, "rating": 4.5 },
+
+    { "id": 13, "name": "Backpack", "category": "accessories", "price": 45.00, "stock": 40, "rating": 4.1 },
+    { "id": 14, "name": "Watch", "category": "accessories", "price": 250.00, "stock": 18, "rating": 4.6 },
+    { "id": 15, "name": "Sunglasses", "category": "accessories", "price": 80.00, "stock": 22, "rating": 4.3 }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 2,
+      "inventoryValue": 58684.77
+    }
+  }
+}
