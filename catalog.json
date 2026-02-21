@@ -19,6 +19,110 @@
       "price": 318.03,
       "stock": 126,
       "rating": 3.9
+    },
+    {
+      "id": "prod-a63a6f86-003",
+      "name": "Standard Item 3",
+      "category": "books",
+      "price": 439.2,
+      "stock": 187,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-a63a6f86-004",
+      "name": "Basic Item 4",
+      "category": "books",
+      "price": 195.26,
+      "stock": 184,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-a63a6f86-005",
+      "name": "Standard Item 5",
+      "category": "sports",
+      "price": 93.72,
+      "stock": 75,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-a63a6f86-006",
+      "name": "Elite Item 6",
+      "category": "electronics",
+      "price": 297.48,
+      "stock": 24,
+      "rating": 3.2
+    },
+    {
+      "id": "prod-a63a6f86-007",
+      "name": "Elite Item 7",
+      "category": "books",
+      "price": 136.45,
+      "stock": 160,
+      "rating": 2.1
+    },
+    {
+      "id": "prod-a63a6f86-008",
+      "name": "Premium Item 8",
+      "category": "clothing",
+      "price": 294.06,
+      "stock": 64,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-a63a6f86-009",
+      "name": "Elite Item 9",
+      "category": "sports",
+      "price": 156,
+      "stock": 91,
+      "rating": 1.2
+    },
+    {
+      "id": "prod-a63a6f86-010",
+      "name": "Standard Item 10",
+      "category": "books",
+      "price": 444.6,
+      "stock": 160,
+      "rating": 3
+    },
+    {
+      "id": "prod-a63a6f86-011",
+      "name": "Elite Item 11",
+      "category": "sports",
+      "price": 238.15,
+      "stock": 69,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-a63a6f86-012",
+      "name": "Basic Item 12",
+      "category": "books",
+      "price": 77.95,
+      "stock": 27,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-a63a6f86-013",
+      "name": "Standard Item 13",
+      "category": "electronics",
+      "price": 41.54,
+      "stock": 35,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-a63a6f86-014",
+      "name": "Elite Item 14",
+      "category": "electronics",
+      "price": 430.1,
+      "stock": 61,
+      "rating": 4.4
+    },
+    {
+      "id": "prod-a63a6f86-015",
+      "name": "Basic Item 15",
+      "category": "electronics",
+      "price": 229.98,
+      "stock": 152,
+      "rating": 3.7
     }
   ],
   "aggregations": {
